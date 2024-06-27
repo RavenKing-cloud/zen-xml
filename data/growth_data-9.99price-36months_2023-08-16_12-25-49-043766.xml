@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<data>
+  <month name="August 2023">
+    <growth_rate>0.0983</growth_rate>
+    <attrition_rate>0.0070</attrition_rate>
+    <running_members>100.00</running_members>
+    <real_income>999.00</real_income>
+    <expected_members>71.58</expected_members>
+  </month>
+  <month name="September 2023">
+    <growth_rate>0.1116</growth_rate>
+    <attrition_rate>0.0140</attrition_rate>
+    <running_members>71.58</running_members>
+    <real_income>715.11</real_income>
+    <expected_members>95.85</expected_members>
+  </month>
+  <month name="October 2023">
+    <growth_rate>0.1250</growth_rate>
+    <attrition_rate>0.0209</attrition_rate>
+    <running_members>95.85</running_members>
+    <real_income>957.57</real_income>
+    <expected_members>123.38</expected_members>
+  </month>
+  <month name="November 2023">
+    <growth_rate>0.1383</growth_rate>
+    <attrition_rate>0.0279</attrition_rate>
+    <running_members>123.38</running_members>
+    <real_income>1232.55</real_income>
+    <expected_members>154.85</expected_members>
+  </month>
+  <month name="December 2024">
+    <growth_rate>0.1516</growth_rate>
+    <attrition_rate>0.0349</attrition_rate>
+    <running_members>154.85</running_members>
+    <real_income>1546.91</real_income>
+    <expected_members>191.09</expected_members>
+  </month>
+  <month name="January 2024">
+    <growth_rate>0.1649</growth_rate>
+    <attrition_rate>0.0419</attrition_rate>
+    <running_members>191.09</running_members>
+    <real_income>1908.94</real_income>
+    <expected_members>233.11</expected_members>
+  </month>
+  <month name="February 2024">
+    <growth_rate>0.1782</growth_rate>
+    <attrition_rate>0.0488</attrition_rate>
+    <running_members>233.11</running_members>
+    <real_income>2328.76</real_income>
+    <expected_members>282.16</expected_members>
+  </month>
+  <month name="March 2024">
+    <growth_rate>0.1916</growth_rate>
+    <attrition_rate>0.0558</attrition_rate>
+    <running_members>282.16</running_members>
+    <real_income>2818.78</real_income>
+    <expected_members>339.76</expected_members>
+  </month>
+  <month name="April 2024">
+    <growth_rate>0.2049</growth_rate>
+    <attrition_rate>0.0628</attrition_rate>
+    <running_members>339.76</running_members>
+    <real_income>3394.23</real_income>
+    <expected_members>407.80</expected_members>
+  </month>
+  <month name="May 2024">
+    <growth_rate>0.2182</growth_rate>
+    <attrition_rate>0.0698</attrition_rate>
+    <running_members>407.80</running_members>
+    <real_income>4073.94</real_income>
+    <expected_members>488.62</expected_members>
+  </month>
+  <month name="June 2024">
+    <growth_rate>0.2315</growth_rate>
+    <attrition_rate>0.0767</attrition_rate>
+    <running_members>488.62</running_members>
+    <real_income>4881.26</real_income>
+    <expected_members>585.11</expected_members>
+  </month>
+  <month name="July 2024">
+    <growth_rate>0.2448</growth_rate>
+    <attrition_rate>0.0837</attrition_rate>
+    <running_members>585.11</running_members>
+    <real_income>5845.29</real_income>
+    <expected_members>700.94</expected_members>
+  </month>
+  <month name="August 2024">
+    <growth_rate>0.2581</growth_rate>
+    <attrition_rate>0.0907</attrition_rate>
+    <running_members>700.94</running_members>
+    <real_income>7002.35</real_income>
+    <expected_members>840.65</expected_members>
+  </month>
+  <month name="September 2024">
+    <growth_rate>0.2715</growth_rate>
+    <attrition_rate>0.0977</attrition_rate>
+    <running_members>840.65</running_members>
+    <real_income>8398.05</real_income>
+    <expected_members>1009.99</expected_members>
+  </month>
+  <month name="October 2024">
+    <growth_rate>0.2848</growth_rate>
+    <attrition_rate>0.1046</attrition_rate>
+    <running_members>1009.99</running_members>
+    <real_income>10089.85</real_income>
+    <expected_members>1216.25</expected_members>
+  </month>
+  <month name="November 2024">
+    <growth_rate>0.2981</growth_rate>
+    <attrition_rate>0.1116</attrition_rate>
+    <running_members>1216.25</running_members>
+    <real_income>12150.37</real_income>
+    <expected_members>1468.65</expected_members>
+  </month>
+  <month name="December 2025">
+    <growth_rate>0.3114</growth_rate>
+    <attrition_rate>0.1186</attrition_rate>
+    <running_members>1468.65</running_members>
+    <real_income>14671.81</real_income>
+    <expected_members>1778.94</expected_members>
+  </month>
+  <month name="January 2025">
+    <growth_rate>0.3247</growth_rate>
+    <attrition_rate>0.1256</attrition_rate>
+    <running_members>1778.94</running_members>
+    <real_income>17771.63</real_income>
+    <expected_members>2162.17</expected_members>
+  </month>
+  <month name="February 2025">
+    <growth_rate>0.3381</growth_rate>
+    <attrition_rate>0.1326</attrition_rate>
+    <running_members>2162.17</running_members>
+    <real_income>21600.06</real_income>
+    <expected_members>2637.63</expected_members>
+  </month>
+  <month name="March 2025">
+    <growth_rate>0.3514</growth_rate>
+    <attrition_rate>0.1395</attrition_rate>
+    <running_members>2637.63</running_members>
+    <real_income>26349.97</real_income>
+    <expected_members>3230.22</expected_members>
+  </month>
+  <month name="April 2025">
+    <growth_rate>0.3647</growth_rate>
+    <attrition_rate>0.1465</attrition_rate>
+    <running_members>3230.22</running_members>
+    <real_income>32269.93</real_income>
+    <expected_members>3972.12</expected_members>
+  </month>
+  <month name="May 2025">
+    <growth_rate>0.3780</growth_rate>
+    <attrition_rate>0.1535</attrition_rate>
+    <running_members>3972.12</running_members>
+    <real_income>39681.52</real_income>
+    <expected_members>4905.15</expected_members>
+  </month>
+  <month name="June 2025">
+    <growth_rate>0.3913</growth_rate>
+    <attrition_rate>0.1605</attrition_rate>
+    <running_members>4905.15</running_members>
+    <real_income>49002.41</real_income>
+    <expected_members>6083.80</expected_members>
+  </month>
+  <month name="July 2025">
+    <growth_rate>0.4047</growth_rate>
+    <attrition_rate>0.1674</attrition_rate>
+    <running_members>6083.80</running_members>
+    <real_income>60777.15</real_income>
+    <expected_members>7579.42</expected_members>
+  </month>
+  <month name="August 2025">
+    <growth_rate>0.4180</growth_rate>
+    <attrition_rate>0.1744</attrition_rate>
+    <running_members>7579.42</running_members>
+    <real_income>75718.45</real_income>
+    <expected_members>9485.77</expected_members>
+  </month>
+  <month name="September 2025">
+    <growth_rate>0.4313</growth_rate>
+    <attrition_rate>0.1814</attrition_rate>
+    <running_members>9485.77</running_members>
+    <real_income>94762.81</real_income>
+    <expected_members>11926.48</expected_members>
+  </month>
+  <month name="October 2025">
+    <growth_rate>0.4446</growth_rate>
+    <attrition_rate>0.1884</attrition_rate>
+    <running_members>11926.48</running_members>
+    <real_income>119145.54</real_income>
+    <expected_members>15065.32</expected_members>
+  </month>
+  <month name="November 2025">
+    <growth_rate>0.4579</growth_rate>
+    <attrition_rate>0.1953</attrition_rate>
+    <running_members>15065.32</running_members>
+    <real_income>150502.53</real_income>
+    <expected_members>19119.98</expected_members>
+  </month>
+  <month name="December 2026">
+    <growth_rate>0.4712</growth_rate>
+    <attrition_rate>0.2023</attrition_rate>
+    <running_members>19119.98</running_members>
+    <real_income>191008.64</real_income>
+    <expected_members>24381.05</expected_members>
+  </month>
+  <month name="January 2026">
+    <growth_rate>0.4846</growth_rate>
+    <attrition_rate>0.2093</attrition_rate>
+    <running_members>24381.05</running_members>
+    <real_income>243566.64</real_income>
+    <expected_members>31237.85</expected_members>
+  </month>
+  <month name="February 2026">
+    <growth_rate>0.4979</growth_rate>
+    <attrition_rate>0.2163</attrition_rate>
+    <running_members>31237.85</running_members>
+    <real_income>312066.15</real_income>
+    <expected_members>40214.18</expected_members>
+  </month>
+  <month name="March 2026">
+    <growth_rate>0.5112</growth_rate>
+    <attrition_rate>0.2233</attrition_rate>
+    <running_members>40214.18</running_members>
+    <real_income>401739.71</real_income>
+    <expected_members>52017.45</expected_members>
+  </month>
+  <month name="April 2026">
+    <growth_rate>0.4016</growth_rate>
+    <attrition_rate>0.1853</attrition_rate>
+    <running_members>52017.45</running_members>
+    <real_income>519654.28</real_income>
+    <expected_members>62103.89</expected_members>
+  </month>
+  <month name="May 2026">
+    <growth_rate>0.3025</growth_rate>
+    <attrition_rate>0.1457</attrition_rate>
+    <running_members>62103.89</running_members>
+    <real_income>620417.89</real_income>
+    <expected_members>69236.37</expected_members>
+  </month>
+  <month name="June 2026">
+    <growth_rate>0.2053</growth_rate>
+    <attrition_rate>0.0987</attrition_rate>
+    <running_members>69236.37</running_members>
+    <real_income>691671.31</real_income>
+    <expected_members>73598.41</expected_members>
+  </month>
+  <month name="July 2026">
+    <growth_rate>0.1009</growth_rate>
+    <attrition_rate>0.0562</attrition_rate>
+    <running_members>73598.41</running_members>
+    <real_income>735248.12</real_income>
+    <expected_members>74388.10</expected_members>
+  </month>
+</data>

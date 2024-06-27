@@ -1,0 +1,5 @@
+<parent>
+    <child name="Template">
+        <type>value</type>
+    </child>
+</parent>

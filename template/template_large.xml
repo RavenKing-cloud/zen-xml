@@ -1,0 +1,13 @@
+<parent>
+    <child name="Template">
+        <grandchild name="Template">
+            <generation3 name = "Template">
+                <generation4 name = "Template">
+                    <generation5 name = "Template">
+                        <type>value</type>
+                    </generation5>
+                </generation4>
+            </generation3>
+        </grandchild>
+    </child>
+</parent>

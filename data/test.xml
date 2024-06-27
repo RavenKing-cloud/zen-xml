@@ -1,0 +1,20 @@
+<data>
+    <month name="January">
+        <type1>Value 1A</type1>
+        <type2>Value 1B</type2>
+        <type3>Value 1C</type3>
+        <type4>Value 1D</type4>
+    </month>
+    <month name="February">
+        <type1>Value 2A</type1>
+        <type2>Value 2B</type2>
+        <type3>Value 2C</type3>
+        <type4>Value 2D</type4>
+    </month>
+    <month name="March">
+        <type1>Value 3A</type1>
+        <type2>Value 3B</type2>
+        <type3>Value 3C</type3>
+        <type4>Value 3D</type4>
+    </month>
+</data>
